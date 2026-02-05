@@ -48,6 +48,7 @@ MODELS = [
     "concerto_large",
     "concerto_base",
     "concerto_small",
+    "concerto_tiny",
     "concerto_large_linear_prob_head_sc",
 ]
 
